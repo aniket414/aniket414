@@ -9,5 +9,5 @@ Connect with me via &nbsp;<img width="20" src="https://www.pinclipart.com/picdir
 <hr>
 
 - 🎓 &nbsp;CS Grad Student <a href="https://gmu.edu/" target="_blank">@GeorgeMasonUniversity</a><br>
-- 🏥 &nbsp;Software Engineer <a href="https://www.jpmorganchase.com/" target="_blank">@JPMorganChase&Co</a><br>
+- 🏥 &nbsp;Ex Software Engineer <a href="https://www.jpmorganchase.com/" target="_blank">@JPMorganChase&Co</a><br>
 - 🎓 &nbsp;Alum <a href="http://unipune.ac.in/" target="_blank">@PuneUniversity</a><br>
