@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, I'm Aniket Pandey
 
-<!--
-**aniket414/aniket414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I solve problems that makes people life easier.<br>
 
-Here are some ideas to get you started:
+- [My Resume](https://aniket414.github.io/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Connect with me via &nbsp;<img width="20" src="https://www.pinclipart.com/picdir/middle/1-14041_twitter-logo-transparent-background-twitter-logo-clipart.png">&nbsp;<a href="https://www.twitter.com/Aniket414/" target="_blank">Twitter</a> or &nbsp;<img width="20" src="https://avatars3.githubusercontent.com/u/357098?s=200&v=4"> <a href="https://www.linkedin.com/in/aniket414/" target="_blank">LinkedIn</a>
+
+<hr>
+
+- 🎓 &nbsp;CS Grad Student <a href="https://gmu.edu/" target="_blank">@GeorgeMasonUniversity</a><br>
+- 🏥 &nbsp;Software Engineer <a href="https://www.jpmorganchase.com/" target="_blank">@JPMorganChase&Co</a><br>
+- 🎓 &nbsp;Alum <a href="http://unipune.ac.in/" target="_blank">@PuneUniversity</a><br>
