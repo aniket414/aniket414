@@ -11,3 +11,8 @@ Connect with me via &nbsp;<img width="20" src="https://www.pinclipart.com/picdir
 - 🎓 &nbsp;CS Grad Student <a href="https://gmu.edu/" target="_blank">@GeorgeMasonUniversity</a><br>
 - 🏥 &nbsp;Ex Software Engineer <a href="https://www.jpmorganchase.com/" target="_blank">@JPMorganChase&Co</a><br>
 - 🎓 &nbsp;Alum <a href="http://unipune.ac.in/" target="_blank">@PuneUniversity</a><br>
+
+**My GitHub Stats:**
+<!--START_SECTION:waka-->
+[![Aniket's github stats](https://github-readme-stats.vercel.app/api?username=aniket414)](https://github.com/aniket414)
+<!--END_SECTION:waka-->
