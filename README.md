@@ -18,3 +18,9 @@ Connect with me via &nbsp;<img width="20" src="https://www.pinclipart.com/picdir
 <!--START_SECTION:waka-->
 [![Aniket's github stats](https://github-readme-stats.vercel.app/api?username=aniket414)](https://github.com/aniket414)
 <!--END_SECTION:waka-->
+
+<hr>
+
+If you like what I do, maybe consider buying me a coffee or tea
+
+<a href="https://www.buymeacoffee.com/aniketpandey" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
