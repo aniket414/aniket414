@@ -22,7 +22,3 @@ Connect with me via &nbsp;<img width="20" src="https://www.pinclipart.com/picdir
 <!--END_SECTION:waka-->
 
 <hr>
-
-If you like what I do, maybe consider buying me a coffee or tea
-
-<a href="https://www.buymeacoffee.com/aniketpandey" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
