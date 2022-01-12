@@ -1,6 +1,6 @@
 ### Hi, I'm Aniket Pandey
 
-I solve problems that makes people life easier.<br>
+I solve problems that make people's life easier.<br>
 
 - [My Resume](https://aniket414.github.io/)
 
