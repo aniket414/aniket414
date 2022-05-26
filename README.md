@@ -15,10 +15,11 @@ I solve problems that make people's life easier.<br>
 - 🎓 &nbsp;Alum <a href="http://unipune.ac.in/" target="_blank">@PuneUniversity</a><br>
 
 <hr>
-
+<!---
 **My GitHub Stats:**
 <!--START_SECTION:waka-->
 [![Aniket's github stats](https://github-readme-stats.vercel.app/api?username=aniket414)](https://github.com/aniket414)
 <!--END_SECTION:waka-->
 
 <hr>
+-->
