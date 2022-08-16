@@ -8,8 +8,9 @@ I solve problems that make people's life easier.<br>
 
 <hr>
 
-- 🏥 &nbsp;Software Engineer 3 Intern <a href="https://www.walmart.com/" target="_blank">@WalmartGlobalTech</a><br>
-- 🎓 &nbsp;Research Assistant <a href="https://gmu.edu/" target="_blank">@GeorgeMasonUniversity</a><br>
+- 🎓 &nbsp;Graduate Teaching Assistant <a href="https://gmu.edu/" target="_blank">@GeorgeMasonUniversity</a><br>
+- 🏥 &nbsp;Ex Software Engineer 3 Intern <a href="https://www.walmart.com/" target="_blank">@WalmartGlobalTech</a><br>
+- 🎓 &nbsp;Ex Research Assistant <a href="https://gmu.edu/" target="_blank">@GeorgeMasonUniversity</a><br>
 - 🎓 &nbsp;CS Grad Student <a href="https://gmu.edu/" target="_blank">@GeorgeMasonUniversity</a><br>
 - 🏥 &nbsp;Ex Software Engineer <a href="https://www.jpmorganchase.com/" target="_blank">@JPMorganChase&Co</a><br>
 - 🎓 &nbsp;Alum <a href="http://unipune.ac.in/" target="_blank">@PuneUniversity</a><br>
