@@ -9,8 +9,9 @@ Connect with me via &nbsp;<img width="20" src="https://www.pinclipart.com/picdir
 
 <hr>
 
+- Software Engineer III <a href="https://www.walmart.com/" target="_blank">@WalmartGlobalTech</a><br>
 - Ex Graduate Teaching Assistant <a href="https://gmu.edu/" target="_blank">@GeorgeMasonUniversity</a><br>
-- Ex Software Engineer 3 Intern <a href="https://www.walmart.com/" target="_blank">@WalmartGlobalTech</a><br>
+- Ex Software Engineer III Intern <a href="https://www.walmart.com/" target="_blank">@WalmartGlobalTech</a><br>
 - Ex Research Assistant <a href="https://gmu.edu/" target="_blank">@GeorgeMasonUniversity</a><br>
 - Alum Grad Student <a href="https://gmu.edu/" target="_blank">@GeorgeMasonUniversity</a><br>
 - Ex Software Engineer <a href="https://www.jpmorganchase.com/" target="_blank">@JPMorganChase&Co</a><br>
